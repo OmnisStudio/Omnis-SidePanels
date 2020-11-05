@@ -1,0 +1,6 @@
+# Enter your initialization code here
+
+Do iLeftPanelModes.$define(iLeftPanelMode)
+Do iLeftPanelModes.$add(kSidePanelModePush)
+Do iLeftPanelModes.$add(kSidePanelModeCover)
+Do iLeftPanelModes.$line.$assign(1)

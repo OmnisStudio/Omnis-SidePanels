@@ -1,0 +1,33 @@
+{
+	"ident": 1027,
+	"order": 16387,
+	"objtype": "kText",
+	"properties": {
+		"align": "kCenterJst",
+		"backcolor": "RGBA(kColorBackFill,255)",
+		"backpattern": 15,
+		"bordercolor": "RGBA(0,0,0,255)",
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"effect": "kBorderNone",
+		"fieldstyle": "LabelTextLarge",
+		"font": 5,
+		"fontsize": 12,
+		"fontstyle": "kPlain",
+		"forecolor": "RGBA(kColorForeFill,255)",
+		"height": 100,
+		"left": 10,
+		"linestyle": 1,
+		"objlink": 65537,
+		"text": {
+			"type": 14,
+			"calc": "Left Panel\r\rkSidePanelModePush"
+		},
+		"textcolor": "kColorWindowText",
+		"top": 200,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 180
+	}
+}
