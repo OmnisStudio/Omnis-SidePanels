@@ -21,7 +21,7 @@
 		"objlink": 0,
 		"text": {
 			"type": 14,
-			"calc": "Controls with an edgefloat of kEFposnLeftToolBar or kEFposnRightToolBar can be used as side panels by setting their sidepanel and sidelpanemode properties.\r\rEither move you cursor to left border of this window to reveal the left Panel, the right border to reveal the right Panel or alternativly use the push buttons below."
+			"calc": "Controls with an edgefloat of kEFposnLeftToolBar or kEFposnRightToolBar can be used as side panels by setting their sidepanel and sidelpanemode properties.\r\rEither move your cursor to left border of this window to reveal the left Panel, the right border to reveal the right Panel or alternatively use the push buttons below."
 		},
 		"textcolor": "kColorWindowText",
 		"top": 55,
